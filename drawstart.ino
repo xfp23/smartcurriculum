@@ -1,4 +1,3 @@
-'''c
 #include <TFT_eSPI.h> 
 
 void showstarting() {
