@@ -1,3 +1,4 @@
+'''c
 #include <TFT_eSPI.h>
 extern const uint16_t PROGMEM image_1[];
 extern const uint16_t PROGMEM image_2[];
